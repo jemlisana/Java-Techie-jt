@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringJenkinsApplication<spring-jenkins>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.javatechie.jenkin.api.SpringJenkinsApplication",
+            "projectName": "spring-jenkins",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
